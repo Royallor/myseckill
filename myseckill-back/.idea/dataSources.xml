@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="myseckill@8.131.78.168" uuid="fbf4bd5f-d12f-4c09-a2ca-ed42e6ced65f">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://8.131.78.168:3306/myseckill</jdbc-url>
+    </data-source>
+  </component>
+</project>
