@@ -23,22 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="394db715-97d1-4ec5-8508-002c5ff3c173" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/adder/myseckillback/bean/Goods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/adder/myseckillback/bean/MainMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/adder/myseckillback/bean/QueryInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/adder/myseckillback/bean/SubMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/adder/myseckillback/controller/GoodsController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/adder/myseckillback/controller/MenuController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/adder/myseckillback/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/adder/myseckillback/dao/GoodsDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/adder/myseckillback/dao/MenuDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/GoodsMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/MenuMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/myseckill.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/adder/myseckillback/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/adder/myseckillback/dao/UserDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,19 +79,6 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MyseckillBackApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="myseckill-back" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.adder.myseckillback.MyseckillBackApplication" />
@@ -125,6 +97,8 @@
       <updated>1611230338200</updated>
       <workItem from="1611230340050" duration="11606000" />
       <workItem from="1611305474410" duration="9977000" />
+      <workItem from="1611319624299" duration="2254000" />
+      <workItem from="1611323883822" duration="919000" />
     </task>
     <servers />
   </component>
@@ -163,38 +137,38 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="400" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1611230576176" />
-    <state width="1237" height="451" key="GridCell.Tab.0.bottom" timestamp="1611318331588">
+    <state width="1237" height="245" key="GridCell.Tab.0.bottom" timestamp="1611324805220">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="451" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1611318331588" />
-    <state width="1237" height="451" key="GridCell.Tab.0.center" timestamp="1611318331588">
+    <state width="1237" height="245" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1611324805220" />
+    <state width="1237" height="245" key="GridCell.Tab.0.center" timestamp="1611324805220">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="451" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1611318331588" />
-    <state width="1237" height="451" key="GridCell.Tab.0.left" timestamp="1611318331587">
+    <state width="1237" height="245" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1611324805220" />
+    <state width="1237" height="245" key="GridCell.Tab.0.left" timestamp="1611324805220">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="451" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1611318331587" />
-    <state width="1237" height="451" key="GridCell.Tab.0.right" timestamp="1611318331588">
+    <state width="1237" height="245" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1611324805220" />
+    <state width="1237" height="245" key="GridCell.Tab.0.right" timestamp="1611324805220">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="451" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1611318331588" />
-    <state width="1237" height="451" key="GridCell.Tab.1.bottom" timestamp="1611318331588">
+    <state width="1237" height="245" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1611324805220" />
+    <state width="1237" height="245" key="GridCell.Tab.1.bottom" timestamp="1611324805220">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="451" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1611318331588" />
-    <state width="1237" height="451" key="GridCell.Tab.1.center" timestamp="1611318331588">
+    <state width="1237" height="245" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1611324805220" />
+    <state width="1237" height="245" key="GridCell.Tab.1.center" timestamp="1611324805220">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="451" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1611318331588" />
-    <state width="1237" height="451" key="GridCell.Tab.1.left" timestamp="1611318331588">
+    <state width="1237" height="245" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1611324805220" />
+    <state width="1237" height="245" key="GridCell.Tab.1.left" timestamp="1611324805220">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="451" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1611318331588" />
-    <state width="1237" height="451" key="GridCell.Tab.1.right" timestamp="1611318331588">
+    <state width="1237" height="245" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1611324805220" />
+    <state width="1237" height="245" key="GridCell.Tab.1.right" timestamp="1611324805220">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="451" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1611318331588" />
+    <state width="1237" height="245" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1611324805220" />
     <state width="1237" height="451" key="GridCell.Tab.2.bottom" timestamp="1611318331588">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
