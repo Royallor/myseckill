@@ -1,8 +1,9 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Home from "@/components/Home";
-import Login from "@/views/Login";
-import ro from "element-ui/src/locale/lang/ro";
+import Login from "@/components/Login";
+import User from "@/components/admin/User";
+import Goods from "@/components/Goods";
 Vue.use(VueRouter)
 
 const routes = [
@@ -18,7 +19,11 @@ const routes = [
   {
     path: "/home",
     name:"首页",
-    component:Home
+    component:Home,
+    children: [
+      { path:'/user', component: User},
+      { path:'/goods', component: Goods}
+    ],
   }
 ]
 

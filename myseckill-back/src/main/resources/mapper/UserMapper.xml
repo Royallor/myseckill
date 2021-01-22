@@ -5,4 +5,20 @@
     <select id="getUserByMessage" resultType="com.adder.myseckillback.bean.User">
         select * from user where username =#{username} and password =#{password} and state = 1;
     </select>
+
+    <select id="getAllUser" resultType="com.adder.myseckillback.bean.User">
+        SELECT * FROM user
+        <if test="username !=null ">
+            WHERE username like #{username}
+        </if>
+        LIMIT #{pageStart},#{pageSize}
+    </select>
+
+    <select id="getUserCounts" resultType="java.lang.Integer">
+        SELECT count(*) FROM `user`
+        <if test="username !=null ">
+            WHERE username like #{username}
+        </if>
+    </select>
+
 </mapper>

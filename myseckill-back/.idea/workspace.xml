@@ -23,112 +23,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="394db715-97d1-4ec5-8508-002c5ff3c173" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/adder/myseckillback/bean/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/adder/myseckillback/controller/LoginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/adder/myseckillback/controller/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/adder/myseckillback/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/adder/myseckillback/utils/WebConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/fbf4bd5f-d12f-4c09-a2ca-ed42e6ced65f.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/fbf4bd5f-d12f-4c09-a2ca-ed42e6ced65f/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_3_4_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_annotation_3_4_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_core_3_4_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_extension_3_4_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_generator_3_4_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_11_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_11_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_11_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_20.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_13_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_13_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_41.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_41.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_28.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jakarta_el_3_0_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_16.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_30.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_3_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_3_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_3_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_3_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_3_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_3_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_3_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_12_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_12_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_12_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_12_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_12_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_12_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_12_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_12_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_26.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/adder/myseckillback/bean/Goods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/adder/myseckillback/bean/MainMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/adder/myseckillback/bean/QueryInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/adder/myseckillback/bean/SubMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/adder/myseckillback/controller/GoodsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/adder/myseckillback/controller/MenuController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/adder/myseckillback/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/adder/myseckillback/dao/GoodsDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/adder/myseckillback/dao/MenuDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/GoodsMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/MenuMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/myseckill.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myseckill-back-admin/myseckill-back-admin.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myseckill-back-admin/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myseckill-back-admin/src/main/java/com/adder/admin/AdminApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myseckill-back-admin/src/main/java/com/adder/admin/controller/AdminController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myseckill-back-admin/src/main/java/com/adder/admin/controller/UserController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myseckill-back-admin/src/main/java/com/adder/admin/controller/UserLogController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myseckill-back-admin/src/main/java/com/adder/admin/mapper/AdminMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myseckill-back-admin/src/main/java/com/adder/admin/mapper/UserLogMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myseckill-back-admin/src/main/java/com/adder/admin/mapper/UserMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myseckill-back-admin/src/main/java/com/adder/admin/pojo/Admin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myseckill-back-admin/src/main/java/com/adder/admin/pojo/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myseckill-back-admin/src/main/java/com/adder/admin/pojo/UserLog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myseckill-back-admin/src/main/java/com/adder/admin/service/IAdminService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myseckill-back-admin/src/main/java/com/adder/admin/service/IUserLogService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myseckill-back-admin/src/main/java/com/adder/admin/service/IUserService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myseckill-back-admin/src/main/java/com/adder/admin/service/impl/AdminServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myseckill-back-admin/src/main/java/com/adder/admin/service/impl/UserLogServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myseckill-back-admin/src/main/java/com/adder/admin/service/impl/UserServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myseckill-back-admin/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myseckill-back-generator/myseckill-back-generator.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myseckill-back-generator/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myseckill-back-generator/src/main/java/com/adder/controller/AdminController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myseckill-back-generator/src/main/java/com/adder/controller/UserController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myseckill-back-generator/src/main/java/com/adder/controller/UserLogController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myseckill-back-generator/src/main/java/com/adder/generator/CodeGenerator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myseckill-back-generator/src/main/java/com/adder/mapper/AdminMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myseckill-back-generator/src/main/java/com/adder/mapper/UserLogMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myseckill-back-generator/src/main/java/com/adder/mapper/UserMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myseckill-back-generator/src/main/java/com/adder/pojo/Admin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myseckill-back-generator/src/main/java/com/adder/pojo/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myseckill-back-generator/src/main/java/com/adder/pojo/UserLog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myseckill-back-generator/src/main/java/com/adder/service/IAdminService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myseckill-back-generator/src/main/java/com/adder/service/IUserLogService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myseckill-back-generator/src/main/java/com/adder/service/IUserService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myseckill-back-generator/src/main/java/com/adder/service/impl/AdminServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myseckill-back-generator/src/main/java/com/adder/service/impl/UserLogServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myseckill-back-generator/src/main/java/com/adder/service/impl/UserServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myseckill-back-generator/src/main/resources/mapper/AdminMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myseckill-back-generator/src/main/resources/mapper/UserLogMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myseckill-back-generator/src/main/resources/mapper/UserMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myseckill-back-generator/target/classes/com/adder/generator/CodeGenerator$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myseckill-back-generator/target/classes/com/adder/generator/CodeGenerator$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myseckill-back-generator/target/classes/com/adder/generator/CodeGenerator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myseckill-back.iml" beforeDir="false" afterPath="$PROJECT_DIR$/myseckill-back.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/adder/myseckillback/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/adder/myseckillback/dao/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,19 +59,22 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="$PROJECT_DIR$/../../SoftWare/maven/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+        <option name="mavenHome" value="C:\Users\Administrator\.m2\wrapper\dists\apache-maven-3.6.3-bin\1iopthnavndlasol9gbrbg6bf2\apache-maven-3.6.3" />
         <option name="userSettingsFile" value="F:\SoftWare\maven\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
   <component name="ProjectId" id="1nNV3gr6emQUSsbighPNAwTORvy" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
@@ -181,13 +94,15 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -209,6 +124,7 @@
       <option name="presentableId" value="Default" />
       <updated>1611230338200</updated>
       <workItem from="1611230340050" duration="11606000" />
+      <workItem from="1611305474410" duration="9977000" />
     </task>
     <servers />
   </component>
@@ -225,6 +141,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="33" y="182" key="#SQL_Dialects" timestamp="1611238718722">
@@ -235,49 +155,69 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="233" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1611238774908" />
-    <state x="446" y="46" key="#com.intellij.ide.util.MemberChooser" timestamp="1611233995607">
+    <state x="446" y="46" key="#com.intellij.ide.util.MemberChooser" timestamp="1611316732330">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="446" y="46" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1611233995607" />
+    <state x="446" y="46" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1611316732330" />
     <state x="400" y="95" key="FileChooserDialogImpl" timestamp="1611230576176">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="400" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1611230576176" />
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1611248084272">
+    <state width="1237" height="451" key="GridCell.Tab.0.bottom" timestamp="1611318331588">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1611248084272" />
-    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1611248084272">
+    <state width="1237" height="451" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1611318331588" />
+    <state width="1237" height="451" key="GridCell.Tab.0.center" timestamp="1611318331588">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1611248084272" />
-    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1611248084272">
+    <state width="1237" height="451" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1611318331588" />
+    <state width="1237" height="451" key="GridCell.Tab.0.left" timestamp="1611318331587">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1611248084272" />
-    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1611248084272">
+    <state width="1237" height="451" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1611318331587" />
+    <state width="1237" height="451" key="GridCell.Tab.0.right" timestamp="1611318331588">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1611248084272" />
-    <state width="1237" height="163" key="GridCell.Tab.1.bottom" timestamp="1611248084273">
+    <state width="1237" height="451" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1611318331588" />
+    <state width="1237" height="451" key="GridCell.Tab.1.bottom" timestamp="1611318331588">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1611248084273" />
-    <state width="1237" height="163" key="GridCell.Tab.1.center" timestamp="1611248084272">
+    <state width="1237" height="451" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1611318331588" />
+    <state width="1237" height="451" key="GridCell.Tab.1.center" timestamp="1611318331588">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1611248084272" />
-    <state width="1237" height="163" key="GridCell.Tab.1.left" timestamp="1611248084272">
+    <state width="1237" height="451" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1611318331588" />
+    <state width="1237" height="451" key="GridCell.Tab.1.left" timestamp="1611318331588">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1611248084272" />
-    <state width="1237" height="163" key="GridCell.Tab.1.right" timestamp="1611248084272">
+    <state width="1237" height="451" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1611318331588" />
+    <state width="1237" height="451" key="GridCell.Tab.1.right" timestamp="1611318331588">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1611248084272" />
+    <state width="1237" height="451" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1611318331588" />
+    <state width="1237" height="451" key="GridCell.Tab.2.bottom" timestamp="1611318331588">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="451" key="GridCell.Tab.2.bottom/0.0.1280.680@0.0.1280.680" timestamp="1611318331588" />
+    <state width="1237" height="451" key="GridCell.Tab.2.center" timestamp="1611318331588">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="451" key="GridCell.Tab.2.center/0.0.1280.680@0.0.1280.680" timestamp="1611318331588" />
+    <state width="1237" height="451" key="GridCell.Tab.2.left" timestamp="1611318331588">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="451" key="GridCell.Tab.2.left/0.0.1280.680@0.0.1280.680" timestamp="1611318331588" />
+    <state width="1237" height="451" key="GridCell.Tab.2.right" timestamp="1611318331588">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="451" key="GridCell.Tab.2.right/0.0.1280.680@0.0.1280.680" timestamp="1611318331588" />
     <state x="121" y="0" key="SettingsEditor" timestamp="1611232490763">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1611232490763" />
+    <state x="24" y="1" key="new project wizard" timestamp="1611305732304">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="24" y="1" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1611305732304" />
   </component>
 </project>

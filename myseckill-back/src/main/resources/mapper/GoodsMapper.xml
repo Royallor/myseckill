@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.adder.myseckillback.dao.GoodsDao">
+    <select id="getAllGoods" resultType="com.adder.myseckillback.bean.Goods">
+        SELECT * FROM goods
+        LIMIT #{pageStart},#{pageSize}
+    </select>
+
+    <select id="getGoodsCounts" resultType="java.lang.Integer">
+        SELECT count(*) FROM goods
+    </select>
+
+</mapper>
